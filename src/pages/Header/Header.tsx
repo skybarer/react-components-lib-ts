@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
+import { Button } from "../../atoms/Button/Button";
 
-import { Button } from './Button';
-import './header.css';
+import "./header.css";
 
 interface HeaderProps {
   user?: {};
